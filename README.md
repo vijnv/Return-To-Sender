@@ -1,7 +1,9 @@
-Return-To-Sender
+Return To Sender
 ================
 
 Chrome extension for displaying pretty delivery status notifications in Gmail. Turns the technical messages you receive when an e-mail can't be delivered into an understandable message.
+
+Available at the [Chrome Web Store](https://chrome.google.com/webstore/detail/return-to-sender/dggknnaomffdgjdlilhkoefkaoplilba).
 
 ### Known limitations: ###
 
