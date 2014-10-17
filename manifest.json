@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Return To Sender",
+    "version": "0.1",
+    "description": "Display user-friendly delivery error messages in Gmail",
+    "icons": { "128": "img/icon.png" },
+    "content_scripts": [{
+        "js": ["js/bootstrap.js"],
+        "css": ["css/main.css"],
+        "matches": ["https://mail.google.com/mail/u/*"]
+    }],
+    "web_accessible_resources": ["js/*.js"]
+}
